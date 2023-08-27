@@ -1,0 +1,30 @@
+{
+  "name": "ts-web-init",
+  "version": "0.0.1",
+  "description": "Utilities to set up basic web development with ts",
+  "bin": {
+    "ts-web-init": "bin/main.js"
+  },
+  "main": "bin/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namugach/ts-web-init.git"
+  },
+  "files": [
+    "bin"
+  ],
+  "keywords": [
+    "typescript",
+    "web",
+    "config"
+  ],
+  "author": "namugach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namugach/ts-web-init/issues"
+  },
+  "homepage": "https://github.com/namugach/ts-web-init#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
